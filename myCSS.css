@@ -5,10 +5,10 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica,Optima sans-serif;
 }
 a:link {
-     color: #DA9899;
+     color: #0000;
 }
 a:visited {
-     color: #DA9899;
+     color: #0000;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #648DA5;
+	background: #E2B1A7;
 	margin: 0px;
 	float: left;
 	width: 100%;
