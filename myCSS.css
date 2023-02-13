@@ -2,6 +2,16 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	font: 100%/1.4 Verdana, Arial, Helvetica,Optima sans-serif;
+}
+a:link {
+     color: #DA9899;
+}
+a:visited {
+     color: #DA9899;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
 .homePage {
 	background: #E2B1A7;
