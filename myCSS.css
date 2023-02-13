@@ -5,10 +5,10 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica,Optima sans-serif;
 }
 a:link {
-     color:#DA9899;
+     color:#E2B1A7;
 }
 a:visited {
-     color: #DA9899;
+     color: #E2B1A7;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
@@ -31,7 +31,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: #0000;
+	background: #DA9899;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -47,7 +47,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #C2ACAC;
+	background: ##D8B9B6;
 	margin: 0px;
 	float: left;
 	width: 100%;
